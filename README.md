@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nandan K S** — a passionate **Full-Stack Developer** and **MCA student** at **CMR Institute of Technology, Bengaluru**.
+I'm **Nandan K S** a passionate **Full-Stack Developer** and **MCA student** at **CMR Institute of Technology, Bengaluru**.
 
-I build **scalable web applications** and **AI-powered solutions** that solve real-world problems — from real-time video conferencing platforms with on-the-fly meeting summaries to fully offline voice assistants that keep your data private.
+I build **scalable web applications** and **AI-powered solutions** that solve real-world problems from real-time video conferencing platforms with on-the-fly meeting summaries to fully offline voice assistants that keep your data private.
 
-I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and **clean software architecture**. For me, writing great software isn't just about making things work — it's about making them work *beautifully*.
+I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and **clean software architecture**. For me, writing great software isn't just about making things work it's about making them work *beautifully*.
 
 > *"Let's build something impactful together."*
 
