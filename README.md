@@ -18,7 +18,7 @@ I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and *
 
 > *"Let's build something impactful together."*
 
-- 🎓 **MCA Student** — CMR Institute of Technology, Bengaluru
+- 🎓 **MCA Student** CMR Institute of Technology, Bengaluru
 - 🔭 **Currently building** AI-integrated full-stack applications
 - 🌱 **Exploring** real-time systems, WebRTC, NLP & AI integration
 - 💡 **Passionate about** privacy-first tech, developer tools, and elegant UX
