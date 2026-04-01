@@ -140,13 +140,13 @@ I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and *
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nandan-k-s-27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan-k-s-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nandan-k-s-27&theme=tokyonight" height="180" alt="GitHub Stats" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nandan-k-s-27&theme=tokyonight" height="180" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandan-k-s-27&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nandan-k-s-27&theme=tokyonight&hide_border=true)
 
 </div>
 
